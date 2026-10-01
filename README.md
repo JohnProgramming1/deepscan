@@ -9,7 +9,7 @@ See every device on your network **by name**, not just a list of MAC addresses, 
 **macOS / Linux**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/deepscan/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/JohnProgramming1/deepscan/main/install.sh | bash
 ```
 
 Then open a new terminal window and run `deepscan`. You need Python 3.8 or newer. Most Macs and Linux machines already have it.
