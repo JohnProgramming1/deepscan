@@ -1,0 +1,8 @@
+netscan.py
+pyproject.toml
+deepscan.egg-info/PKG-INFO
+deepscan.egg-info/SOURCES.txt
+deepscan.egg-info/dependency_links.txt
+deepscan.egg-info/entry_points.txt
+deepscan.egg-info/requires.txt
+deepscan.egg-info/top_level.txt

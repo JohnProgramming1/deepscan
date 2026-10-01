@@ -1,0 +1,2 @@
+[console_scripts]
+deepscan = netscan:main
