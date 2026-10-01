@@ -3,7 +3,7 @@
 #   curl -fsSL https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/deepscan/main/install.sh | bash
 set -euo pipefail
 
-REPO="${DEEPSCAN_REPO:-JohnProgramming/deepscan}"
+REPO="${DEEPSCAN_REPO:-JohnProgramming1/deepscan}"
 APP_DIR="$HOME/.deepscan/app"
 BIN_DIR="$HOME/.local/bin"
 
